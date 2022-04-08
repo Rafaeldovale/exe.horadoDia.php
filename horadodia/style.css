@@ -1,0 +1,35 @@
+
+html{
+    font-size: 18px;
+}
+body{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    background-size:cover;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+   
+}
+h1{
+    color: rgb(161, 156, 156);
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 320px;
+    border-radius: 50%; 
+}
+h2{
+    color: rgb(247, 239, 239);
+    margin: 0;
+    padding: 10px 0;  
+}
+footer{
+    text-align: auto;
+}
+
